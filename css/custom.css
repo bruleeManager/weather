@@ -1,0 +1,25 @@
+/*Search Bar*/
+#searchBar{
+  background: #8080805c;
+  padding: 10px 5px;
+}
+
+#SearchWeather {
+  background: white;
+  color: black;
+  margin-left: 10px;
+}
+
+/*chart*/
+.wrapper {
+height: 500px !important;
+}
+
+/*Uti*/
+.display-inline{
+  display: inline-block;
+}
+
+.margin-10{
+  margin: 10px;
+}
