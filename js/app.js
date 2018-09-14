@@ -58,7 +58,7 @@ function findWeather(WeahterApp){
 }
 
 /**
- * Grab the weather data and call drawChart if needed
+ * Draw the char to the #mychart canvas element, alternatively can take in the name of the element to make this function reuseable
  * @param {Object} Data - data object for the Chartjs to know what to drawChart
   * return undefined
 */
